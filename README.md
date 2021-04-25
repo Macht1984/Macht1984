@@ -32,3 +32,14 @@ flexible Spiel-Engine. </ description>
  hhh
 take a look at your changes.
 --->
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.7 (GNU/Linux)
+
+iQEVAwUAYBEhSriLL9Q9vcKEAQhqigf/ZIA82F65XfGKdwFTkQItnTJoXWIhKFy5
+OPzMiSOWt6CAD69yoxUP6IwbhJZ+mG4YfWOJVY8tHzTy1rZsS/1itinZuX0zup6K
+URD2lt47n8i0S3RMA/DRuONLSyu42J0mf4gllu/ir8f/aO+M2YDpXF2+owcm54Lh
+Wug3WzhT8gu0BJORi9lEDZHyhNtXqYJROSiudxtypZyTAQr7CLBpMG9oE5/tytKD
+kFzER2PZ7xPzk5v1r0xWaiET1QCJ38PzZI014vO2tRGC2Aj91AKkVfwR9GjOZuS2
+7PTXImvzlJ07P54glADIHb/zrTnw2WE0cDFxTxxRZRHyijkjSsDg4g==
+=viYu
+-----END PGP SIGNATURE-----
