@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Macht1984 <<metapackage xmlns: os = "http://opensuse.org/Standards/One_Click_Install" xmlns = "http://opensuse.org/Standards/One_Click_Install">
+ *👋 Hi, I’m #@Macht1984# <Macht1984/Macht1984 is a ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to.<metapackage xmlns: os = "http://opensuse.org/Standards/One_Click_Install" xmlns = "http://opensuse.org/Standards/One_Click_Install">
   <group distversion = "openSUSE Leap 15.2">
     <Repositories>
       <Repository empfohlen = "wahr">
@@ -28,7 +29,6 @@ flexible Spiel-Engine. </ description>
 - 📫 How to reach me ...
 
 <!---∆>
-Macht1984/Macht1984 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to hhh
+ hhh
 take a look at your changes.
 --->
